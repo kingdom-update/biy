@@ -1,12 +1,11 @@
 {
-  "name": "Our God Stories",
-  "slug": "god-stories",
-  "version": "1.0.4",
-  "author": "Kingdom Web Services",
+  "name": "Kingdom Bible In A Year",
+  "slug": "kingdom-bible-in-a-year",
+  "version": "0.4.4",
+  "download_url": "https://github.com/kingdom-update/biy/releases/download/0.4.4/kingdom-bible-in-a-year-0.4.4.zip",
   "homepage": "https://kingdomwebservices.com",
-  "download_url": "https://kingdomwebservices.com/kingdom-updates/ogs/downloads/god-stories-1.0.4.zip",
   "sections": {
-    "description": "<p>Testimonial plugin where users can submit Christian testimonies (video or text). Admins can approve and display them on the frontend. Includes submission form, display with load more, admin frontend dashboard, and settings page.</p>",
-    "changelog": "<ul><li>Improved submission validation</li><li>UI fixes for frontend modal</li></ul>"
+    "description": "<p>Annual Bible reading plan plugin with Today and Annual Table shortcodes, Elementor widgets, progress tracking, a dedicated reader page option, and a scripture reader/importer.</p>",
+    "changelog": "<h4>0.4.4</h4><ul><li>Updated the frontend styling with the latest BIY design system for the Today, Annual Table, and Reader views.</li><li>Improved responsive behavior for the annual reading table and reader layout on smaller screens.</li><li>Added plugin update support using a remote JSON manifest.</li><li>Connected plugin updates to the BIY GitHub update manifest.</li></ul>"
   }
 }
