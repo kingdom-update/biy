@@ -1,0 +1,12 @@
+{
+  "name": "Our God Stories",
+  "slug": "god-stories",
+  "version": "1.0.4",
+  "author": "Kingdom Web Services",
+  "homepage": "https://kingdomwebservices.com",
+  "download_url": "https://kingdomwebservices.com/kingdom-updates/ogs/downloads/god-stories-1.0.4.zip",
+  "sections": {
+    "description": "<p>Testimonial plugin where users can submit Christian testimonies (video or text). Admins can approve and display them on the frontend. Includes submission form, display with load more, admin frontend dashboard, and settings page.</p>",
+    "changelog": "<ul><li>Improved submission validation</li><li>UI fixes for frontend modal</li></ul>"
+  }
+}
