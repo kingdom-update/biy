@@ -1,11 +1,11 @@
 {
   "name": "Kingdom Bible In A Year",
   "slug": "kingdom-bible-in-a-year",
-  "version": "0.4.4",
-  "download_url": "https://github.com/kingdom-update/biy/releases/download/0.4.4/kingdom-bible-in-a-year-0.4.4.zip",
+  "version": "0.4.6",
+  "download_url": "https://github.com/kingdom-update/biy/releases/download/0.4.6/kingdom-bible-in-a-year-0.4.6.zip",
   "homepage": "https://kingdomwebservices.com",
   "sections": {
     "description": "<p>Annual Bible reading plan plugin with Today and Annual Table shortcodes, Elementor widgets, progress tracking, a dedicated reader page option, and a scripture reader/importer.</p>",
-    "changelog": "<h4>0.4.4</h4><ul><li>Updated the frontend styling with the latest BIY design system for the Today, Annual Table, and Reader views.</li><li>Improved responsive behavior for the annual reading table and reader layout on smaller screens.</li><li>Added plugin update support using a remote JSON manifest.</li><li>Connected plugin updates to the BIY GitHub update manifest.</li></ul>"
+    "changelog": "<h4>Version 0.4.6</h4><ul><li>Fixed the reader back link to return to the shortcode page instead of the site homepage.</li><li>Kept the source page while opening related passages.</li><li>Kept the source page while using previous and next reader navigation.</li></ul>"
   }
 }
